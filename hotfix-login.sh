@@ -1,1 +1,0 @@
-echo " This the the hotfix of login button "
